@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/MacKentoch/react-native-beacons-manager#readme"
   s.license      = { :type => "MIT" }
   s.authors      = { "" => "" }
-  s.platform     = :ios, "8.0"
+  s.platform     = :ios, "12.0"
   s.source       = { :path => "." }
   s.source_files = "ios", "ios/**/*.{h,m}"
 
